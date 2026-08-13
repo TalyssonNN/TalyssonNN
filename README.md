@@ -1,5 +1,3 @@
-# README.md — GitHub Profile
-
 <div align="center">
 
 # 👋 Olá, eu sou Talysson Nogueira
